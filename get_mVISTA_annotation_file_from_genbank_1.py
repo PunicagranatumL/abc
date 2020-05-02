@@ -34,8 +34,8 @@ for rec in SeqIO.parse(args.genbank,"gb"):
 					fw.write("%s\t%s\t%s\n"%(start_location,end_location,"exon"))
 		elif feature.type == "tRNA" or feature.type == "rRNA":
 			for part in feature.location.parts:
-				start_location = str(feature.location.start)
-				end_location = str(feature.location.end)
+				start_location = str(part.start)
+				end_location = str(part.end)
 				fw.write("%s\t%s\t%s\n"%(start_location,end_location,"utr"))
 		else:
 			print("%s %s"%(feature.type,"is not needed"))
