@@ -1,0 +1,14 @@
+#NEXUS
+BEGIN DATA;
+dimensions ntax=4 nchar=28;
+format missing=?
+interleave=yes datatype=DNA gap=- match=.;
+
+matrix
+ccsA1       ATGATATTTTCAACTTTAGAGCATATAT
+ccsA2       ATGATATTTTCAACTTTAGAGCATATAT
+ccsA3       ATGATATTTTCAACTTTAGAGCATATAT
+ccsA4       ATGATATTTTCAACTTTAGAGCATATAT
+
+;
+end;
