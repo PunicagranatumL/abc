@@ -1,0 +1,630 @@
+     repeat_region   12271..12630
+                     /rpt_type=dispersed
+                     /label=Repeat_1
+     repeat_region   complement(131033..131392)
+                     /rpt_type=dispersed
+                     /label=Repeat_1
+     repeat_region   191136..191472
+                     /rpt_type=dispersed
+                     /label=Repeat_2
+     repeat_region   312453..312789
+                     /rpt_type=dispersed
+                     /label=Repeat_2
+     repeat_region   15473..15696
+                     /rpt_type=dispersed
+                     /label=Repeat_3
+     repeat_region   complement(621199..621422)
+                     /rpt_type=dispersed
+                     /label=Repeat_3
+     repeat_region   417707..417902
+                     /rpt_type=dispersed
+                     /label=Repeat_4
+     repeat_region   complement(624773..624968)
+                     /rpt_type=dispersed
+                     /label=Repeat_4
+     repeat_region   117565..117735
+                     /rpt_type=dispersed
+                     /label=Repeat_5
+     repeat_region   complement(625084..625254)
+                     /rpt_type=dispersed
+                     /label=Repeat_5
+     repeat_region   339742..339907
+                     /rpt_type=dispersed
+                     /label=Repeat_6
+     repeat_region   696757..696922
+                     /rpt_type=dispersed
+                     /label=Repeat_6
+     repeat_region   9588..9749
+                     /rpt_type=dispersed
+                     /label=Repeat_7
+     repeat_region   complement(452165..452326)
+                     /rpt_type=dispersed
+                     /label=Repeat_7
+     repeat_region   15235..15394
+                     /rpt_type=dispersed
+                     /label=Repeat_8
+     repeat_region   complement(621501..621660)
+                     /rpt_type=dispersed
+                     /label=Repeat_8
+     repeat_region   130741..130888
+                     /rpt_type=dispersed
+                     /label=Repeat_9
+     repeat_region   271426..271573
+                     /rpt_type=dispersed
+                     /label=Repeat_9
+     repeat_region   128484..128618
+                     /rpt_type=dispersed
+                     /label=Repeat_10
+     repeat_region   complement(674304..674438)
+                     /rpt_type=dispersed
+                     /label=Repeat_10
+     repeat_region   597134..597267
+                     /rpt_type=dispersed
+                     /label=Repeat_11
+     repeat_region   complement(728541..728674)
+                     /rpt_type=dispersed
+                     /label=Repeat_11
+     repeat_region   134208..134339
+                     /rpt_type=dispersed
+                     /label=Repeat_12
+     repeat_region   complement(328720..328851)
+                     /rpt_type=dispersed
+                     /label=Repeat_12
+     repeat_region   104821..104950
+                     /rpt_type=dispersed
+                     /label=Repeat_13
+     repeat_region   597016..597145
+                     /rpt_type=dispersed
+                     /label=Repeat_13
+     repeat_region   165761..165888
+                     /rpt_type=dispersed
+                     /label=Repeat_14
+     repeat_region   441159..441286
+                     /rpt_type=dispersed
+                     /label=Repeat_14
+     repeat_region   406483..406609
+                     /rpt_type=dispersed
+                     /label=Repeat_15
+     repeat_region   406610..406736
+                     /rpt_type=dispersed
+                     /label=Repeat_15
+     repeat_region   361541..361662
+                     /rpt_type=dispersed
+                     /label=Repeat_16
+     repeat_region   364656..364777
+                     /rpt_type=dispersed
+                     /label=Repeat_16
+     repeat_region   310846..310960
+                     /rpt_type=dispersed
+                     /label=Repeat_17
+     repeat_region   354381..354495
+                     /rpt_type=dispersed
+                     /label=Repeat_17
+     repeat_region   275109..275212
+                     /rpt_type=dispersed
+                     /label=Repeat_18
+     repeat_region   640666..640769
+                     /rpt_type=dispersed
+                     /label=Repeat_18
+     repeat_region   417839..417941
+                     /rpt_type=dispersed
+                     /label=Repeat_19
+     repeat_region   645768..645870
+                     /rpt_type=dispersed
+                     /label=Repeat_19
+     repeat_region   507850..507950
+                     /rpt_type=dispersed
+                     /label=Repeat_20
+     repeat_region   621583..621683
+                     /rpt_type=dispersed
+                     /label=Repeat_20
+     repeat_region   214862..214961
+                     /rpt_type=dispersed
+                     /label=Repeat_21
+     repeat_region   complement(377624..377723)
+                     /rpt_type=dispersed
+                     /label=Repeat_21
+     repeat_region   216609..216707
+                     /rpt_type=dispersed
+                     /label=Repeat_22
+     repeat_region   complement(659915..660013)
+                     /rpt_type=dispersed
+                     /label=Repeat_22
+     repeat_region   85945..86043
+                     /rpt_type=dispersed
+                     /label=Repeat_23
+     repeat_region   215821..215919
+                     /rpt_type=dispersed
+                     /label=Repeat_23
+     repeat_region   287437..287534
+                     /rpt_type=dispersed
+                     /label=Repeat_24
+     repeat_region   687237..687334
+                     /rpt_type=dispersed
+                     /label=Repeat_24
+     repeat_region   103116..103212
+                     /rpt_type=dispersed
+                     /label=Repeat_25
+     repeat_region   complement(417848..417944)
+                     /rpt_type=dispersed
+                     /label=Repeat_25
+     repeat_region   232330..232425
+                     /rpt_type=dispersed
+                     /label=Repeat_26
+     repeat_region   complement(767849..767944)
+                     /rpt_type=dispersed
+                     /label=Repeat_26
+     repeat_region   87757..87852
+                     /rpt_type=dispersed
+                     /label=Repeat_27
+     repeat_region   complement(99054..99149)
+                     /rpt_type=dispersed
+                     /label=Repeat_27
+     repeat_region   103119..103212
+                     /rpt_type=dispersed
+                     /label=Repeat_28
+     repeat_region   complement(417848..417941)
+                     /rpt_type=dispersed
+                     /label=Repeat_28
+     repeat_region   complement(645777..645870)
+                     /rpt_type=dispersed
+                     /label=Repeat_28
+     repeat_region   430994..431086
+                     /rpt_type=dispersed
+                     /label=Repeat_29
+     repeat_region   complement(624440..624532)
+                     /rpt_type=dispersed
+                     /label=Repeat_29
+     repeat_region   314026..314118
+                     /rpt_type=dispersed
+                     /label=Repeat_30
+     repeat_region   515779..515871
+                     /rpt_type=dispersed
+                     /label=Repeat_30
+     repeat_region   9813..9903
+                     /rpt_type=dispersed
+                     /label=Repeat_31
+     repeat_region   complement(451987..452077)
+                     /rpt_type=dispersed
+                     /label=Repeat_31
+     repeat_region   212312..212398
+                     /rpt_type=dispersed
+                     /label=Repeat_32
+     repeat_region   complement(377432..377518)
+                     /rpt_type=dispersed
+                     /label=Repeat_32
+     repeat_region   247411..247492
+                     /rpt_type=dispersed
+                     /label=Repeat_33
+     repeat_region   675348..675429
+                     /rpt_type=dispersed
+                     /label=Repeat_33
+     repeat_region   15235..15312
+                     /rpt_type=dispersed
+                     /label=Repeat_34
+     repeat_region   complement(507850..507927)
+                     /rpt_type=dispersed
+                     /label=Repeat_34
+     repeat_region   complement(621583..621660)
+                     /rpt_type=dispersed
+                     /label=Repeat_34
+     repeat_region   287993..288069
+                     /rpt_type=dispersed
+                     /label=Repeat_35
+     repeat_region   complement(624958..625034)
+                     /rpt_type=dispersed
+                     /label=Repeat_35
+     repeat_region   131438..131513
+                     /rpt_type=dispersed
+                     /label=Repeat_36
+     repeat_region   complement(642082..642157)
+                     /rpt_type=dispersed
+                     /label=Repeat_36
+     repeat_region   317132..317206
+                     /rpt_type=dispersed
+                     /label=Repeat_37
+     repeat_region   complement(622371..622445)
+                     /rpt_type=dispersed
+                     /label=Repeat_37
+     repeat_region   43330..43402
+                     /rpt_type=dispersed
+                     /label=Repeat_38
+     repeat_region   complement(369817..369889)
+                     /rpt_type=dispersed
+                     /label=Repeat_38
+     repeat_region   249110..249180
+                     /rpt_type=dispersed
+                     /label=Repeat_39
+     repeat_region   complement(326868..326938)
+                     /rpt_type=dispersed
+                     /label=Repeat_39
+     repeat_region   132395..132464
+                     /rpt_type=dispersed
+                     /label=Repeat_40
+     repeat_region   676271..676340
+                     /rpt_type=dispersed
+                     /label=Repeat_40
+     repeat_region   402335..402403
+                     /rpt_type=dispersed
+                     /label=Repeat_41
+     repeat_region   553364..553432
+                     /rpt_type=dispersed
+                     /label=Repeat_41
+     repeat_region   42312..42380
+                     /rpt_type=dispersed
+                     /label=Repeat_42
+     repeat_region   165782..165850
+                     /rpt_type=dispersed
+                     /label=Repeat_42
+     repeat_region   441180..441248
+                     /rpt_type=dispersed
+                     /label=Repeat_42
+     repeat_region   15396..15464
+                     /rpt_type=dispersed
+                     /label=Repeat_43
+     repeat_region   complement(621431..621499)
+                     /rpt_type=dispersed
+                     /label=Repeat_43
+     repeat_region   61819..61885
+                     /rpt_type=dispersed
+                     /label=Repeat_44
+     repeat_region   complement(440110..440176)
+                     /rpt_type=dispersed
+                     /label=Repeat_44
+     repeat_region   224094..224159
+                     /rpt_type=dispersed
+                     /label=Repeat_45
+     repeat_region   complement(262673..262738)
+                     /rpt_type=dispersed
+                     /label=Repeat_45
+     repeat_region   9751..9816
+                     /rpt_type=dispersed
+                     /label=Repeat_46
+     repeat_region   complement(452098..452163)
+                     /rpt_type=dispersed
+                     /label=Repeat_46
+     repeat_region   211985..212049
+                     /rpt_type=dispersed
+                     /label=Repeat_47
+     repeat_region   complement(215389..215453)
+                     /rpt_type=dispersed
+                     /label=Repeat_47
+     repeat_region   175805..175869
+                     /rpt_type=dispersed
+                     /label=Repeat_48
+     repeat_region   640612..640676
+                     /rpt_type=dispersed
+                     /label=Repeat_48
+     repeat_region   complement(417839..417902)
+                     /rpt_type=dispersed
+                     /label=Repeat_49
+     repeat_region   624773..624836
+                     /rpt_type=dispersed
+                     /label=Repeat_49
+     repeat_region   complement(645768..645831)
+                     /rpt_type=dispersed
+                     /label=Repeat_49
+     repeat_region   1119..1182
+                     /rpt_type=dispersed
+                     /label=Repeat_50
+     repeat_region   771947..772010
+                     /rpt_type=dispersed
+                     /label=Repeat_50
+     repeat_region   218362..218423
+                     /rpt_type=dispersed
+                     /label=Repeat_51
+     repeat_region   complement(239940..240001)
+                     /rpt_type=dispersed
+                     /label=Repeat_51
+     repeat_region   212047..212108
+                     /rpt_type=dispersed
+                     /label=Repeat_52
+     repeat_region   complement(439138..439199)
+                     /rpt_type=dispersed
+                     /label=Repeat_52
+     repeat_region   269941..270001
+                     /rpt_type=dispersed
+                     /label=Repeat_53
+     repeat_region   587387..587447
+                     /rpt_type=dispersed
+                     /label=Repeat_53
+     repeat_region   206980..207040
+                     /rpt_type=dispersed
+                     /label=Repeat_54
+     repeat_region   211797..211857
+                     /rpt_type=dispersed
+                     /label=Repeat_54
+     repeat_region   89969..90029
+                     /rpt_type=dispersed
+                     /label=Repeat_55
+     repeat_region   complement(401383..401443)
+                     /rpt_type=dispersed
+                     /label=Repeat_55
+     repeat_region   517975..518034
+                     /rpt_type=dispersed
+                     /label=Repeat_56
+     repeat_region   700645..700704
+                     /rpt_type=dispersed
+                     /label=Repeat_56
+     repeat_region   313504..313563
+                     /rpt_type=dispersed
+                     /label=Repeat_57
+     repeat_region   625245..625304
+                     /rpt_type=dispersed
+                     /label=Repeat_57
+     repeat_region   60718..60777
+                     /rpt_type=dispersed
+                     /label=Repeat_58
+     repeat_region   complement(435657..435716)
+                     /rpt_type=dispersed
+                     /label=Repeat_58
+     repeat_region   9975..10034
+                     /rpt_type=dispersed
+                     /label=Repeat_59
+     repeat_region   complement(451855..451914)
+                     /rpt_type=dispersed
+                     /label=Repeat_59
+     repeat_region   434970..435028
+                     /rpt_type=dispersed
+                     /label=Repeat_60
+     repeat_region   728715..728773
+                     /rpt_type=dispersed
+                     /label=Repeat_60
+     repeat_region   211329..211387
+                     /rpt_type=dispersed
+                     /label=Repeat_61
+     repeat_region   483113..483171
+                     /rpt_type=dispersed
+                     /label=Repeat_61
+     repeat_region   205892..205950
+                     /rpt_type=dispersed
+                     /label=Repeat_62
+     repeat_region   692254..692312
+                     /rpt_type=dispersed
+                     /label=Repeat_62
+     repeat_region   436168..436225
+                     /rpt_type=dispersed
+                     /label=Repeat_63
+     repeat_region   complement(715110..715167)
+                     /rpt_type=dispersed
+                     /label=Repeat_63
+     repeat_region   217119..217176
+                     /rpt_type=dispersed
+                     /label=Repeat_64
+     repeat_region   complement(744163..744220)
+                     /rpt_type=dispersed
+                     /label=Repeat_64
+     repeat_region   405060..405116
+                     /rpt_type=dispersed
+                     /label=Repeat_65
+     repeat_region   620412..620468
+                     /rpt_type=dispersed
+                     /label=Repeat_65
+     repeat_region   191358..191414
+                     /rpt_type=dispersed
+                     /label=Repeat_66
+     repeat_region   312675..312731
+                     /rpt_type=dispersed
+                     /label=Repeat_66
+     repeat_region   510793..510849
+                     /rpt_type=dispersed
+                     /label=Repeat_66
+     repeat_region   187327..187383
+                     /rpt_type=dispersed
+                     /label=Repeat_67
+     repeat_region   475362..475418
+                     /rpt_type=dispersed
+                     /label=Repeat_67
+     repeat_region   9392..9448
+                     /rpt_type=dispersed
+                     /label=Repeat_68
+     repeat_region   complement(475783..475839)
+                     /rpt_type=dispersed
+                     /label=Repeat_68
+     repeat_region   728425..728480
+                     /rpt_type=dispersed
+                     /label=Repeat_69
+     repeat_region   complement(752320..752375)
+                     /rpt_type=dispersed
+                     /label=Repeat_69
+     repeat_region   313038..313093
+                     /rpt_type=dispersed
+                     /label=Repeat_70
+     repeat_region   601613..601668
+                     /rpt_type=dispersed
+                     /label=Repeat_70
+     repeat_region   254099..254154
+                     /rpt_type=dispersed
+                     /label=Repeat_71
+     repeat_region   701305..701360
+                     /rpt_type=dispersed
+                     /label=Repeat_71
+     repeat_region   215054..215109
+                     /rpt_type=dispersed
+                     /label=Repeat_72
+     repeat_region   624129..624184
+                     /rpt_type=dispersed
+                     /label=Repeat_72
+     repeat_region   116867..116922
+                     /rpt_type=dispersed
+                     /label=Repeat_73
+     repeat_region   723629..723684
+                     /rpt_type=dispersed
+                     /label=Repeat_73
+     repeat_region   44502..44557
+                     /rpt_type=dispersed
+                     /label=Repeat_74
+     repeat_region   392814..392869
+                     /rpt_type=dispersed
+                     /label=Repeat_74
+     repeat_region   42255..42310
+                     /rpt_type=dispersed
+                     /label=Repeat_75
+     repeat_region   165725..165780
+                     /rpt_type=dispersed
+                     /label=Repeat_75
+     repeat_region   409544..409598
+                     /rpt_type=dispersed
+                     /label=Repeat_76
+     repeat_region   complement(504066..504120)
+                     /rpt_type=dispersed
+                     /label=Repeat_76
+     repeat_region   202123..202177
+                     /rpt_type=dispersed
+                     /label=Repeat_77
+     repeat_region   722589..722643
+                     /rpt_type=dispersed
+                     /label=Repeat_77
+     repeat_region   117737..117791
+                     /rpt_type=dispersed
+                     /label=Repeat_78
+     repeat_region   complement(625028..625082)
+                     /rpt_type=dispersed
+                     /label=Repeat_78
+     repeat_region   103158..103212
+                     /rpt_type=dispersed
+                     /label=Repeat_79
+     repeat_region   complement(417848..417902)
+                     /rpt_type=dispersed
+                     /label=Repeat_79
+     repeat_region   624773..624827
+                     /rpt_type=dispersed
+                     /label=Repeat_79
+     repeat_region   complement(645777..645831)
+                     /rpt_type=dispersed
+                     /label=Repeat_79
+     repeat_region   45018..45072
+                     /rpt_type=dispersed
+                     /label=Repeat_80
+     repeat_region   105229..105283
+                     /rpt_type=dispersed
+                     /label=Repeat_80
+     repeat_region   354257..354310
+                     /rpt_type=dispersed
+                     /label=Repeat_81
+     repeat_region   complement(416161..416214)
+                     /rpt_type=dispersed
+                     /label=Repeat_81
+     repeat_region   334306..334359
+                     /rpt_type=dispersed
+                     /label=Repeat_82
+     repeat_region   390862..390915
+                     /rpt_type=dispersed
+                     /label=Repeat_82
+     repeat_region   244585..244638
+                     /rpt_type=dispersed
+                     /label=Repeat_83
+     repeat_region   complement(378365..378418)
+                     /rpt_type=dispersed
+                     /label=Repeat_83
+     repeat_region   375346..375397
+                     /rpt_type=dispersed
+                     /label=Repeat_84
+     repeat_region   619127..619178
+                     /rpt_type=dispersed
+                     /label=Repeat_84
+     repeat_region   355394..355445
+                     /rpt_type=dispersed
+                     /label=Repeat_85
+     repeat_region   764937..764988
+                     /rpt_type=dispersed
+                     /label=Repeat_85
+     repeat_region   107588..107639
+                     /rpt_type=dispersed
+                     /label=Repeat_86
+     repeat_region   588910..588961
+                     /rpt_type=dispersed
+                     /label=Repeat_86
+     repeat_region   102661..102712
+                     /rpt_type=dispersed
+                     /label=Repeat_87
+     repeat_region   115254..115305
+                     /rpt_type=dispersed
+                     /label=Repeat_87
+     repeat_region   100196..100247
+                     /rpt_type=dispersed
+                     /label=Repeat_88
+     repeat_region   complement(128819..128870)
+                     /rpt_type=dispersed
+                     /label=Repeat_88
+     repeat_region   60490..60541
+                     /rpt_type=dispersed
+                     /label=Repeat_89
+     repeat_region   complement(743817..743868)
+                     /rpt_type=dispersed
+                     /label=Repeat_89
+     repeat_region   58066..58117
+                     /rpt_type=dispersed
+                     /label=Repeat_90
+     repeat_region   417078..417129
+                     /rpt_type=dispersed
+                     /label=Repeat_90
+     repeat_region   47416..47467
+                     /rpt_type=dispersed
+                     /label=Repeat_91
+     repeat_region   complement(140074..140125)
+                     /rpt_type=dispersed
+                     /label=Repeat_91
+     repeat_region   15323..15374
+                     /rpt_type=dispersed
+                     /label=Repeat_92
+     repeat_region   complement(507798..507849)
+                     /rpt_type=dispersed
+                     /label=Repeat_92
+     repeat_region   complement(621521..621572)
+                     /rpt_type=dispersed
+                     /label=Repeat_92
+     repeat_region   644242..644292
+                     /rpt_type=dispersed
+                     /label=Repeat_93
+     repeat_region   complement(738783..738833)
+                     /rpt_type=dispersed
+                     /label=Repeat_93
+     repeat_region   287371..287421
+                     /rpt_type=dispersed
+                     /label=Repeat_94
+     repeat_region   complement(358572..358622)
+                     /rpt_type=dispersed
+                     /label=Repeat_94
+     repeat_region   251191..251241
+                     /rpt_type=dispersed
+                     /label=Repeat_95
+     repeat_region   complement(668679..668729)
+                     /rpt_type=dispersed
+                     /label=Repeat_95
+     repeat_region   209971..210021
+                     /rpt_type=dispersed
+                     /label=Repeat_96
+     repeat_region   complement(742098..742148)
+                     /rpt_type=dispersed
+                     /label=Repeat_96
+     repeat_region   206937..206987
+                     /rpt_type=dispersed
+                     /label=Repeat_97
+     repeat_region   complement(675257..675307)
+                     /rpt_type=dispersed
+                     /label=Repeat_97
+     repeat_region   194310..194360
+                     /rpt_type=dispersed
+                     /label=Repeat_98
+     repeat_region   526109..526159
+                     /rpt_type=dispersed
+                     /label=Repeat_98
+     repeat_region   344880..344929
+                     /rpt_type=dispersed
+                     /label=Repeat_99
+     repeat_region   complement(490201..490250)
+                     /rpt_type=dispersed
+                     /label=Repeat_99
+     repeat_region   244006..244055
+                     /rpt_type=dispersed
+                     /label=Repeat_100
+     repeat_region   407831..407880
+                     /rpt_type=dispersed
+                     /label=Repeat_100
+     repeat_region   23627..23676
+                     /rpt_type=dispersed
+                     /label=Repeat_101
+     repeat_region   670613..670662
+                     /rpt_type=dispersed
+                     /label=Repeat_101

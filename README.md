@@ -27,3 +27,14 @@ python .\batch_convert_nex_to_fasta.py .\input_nexus\ output_fasta
 ```
 fasta结果文件将会保存在 output_fasta文件夹中
 
+###### ROUSFinder2.py
+这个脚本来源于论文Repeats of Unusual Size in Plant Mitochondrial
+Genomes: Identification, Incidence and Evolution
+使用方法 python2 ROUSFinder2.py MH645952.fna
+脚本是使用python2写的
+使用这个脚本的前提是blastn安装到了/user/bin目录下，
+如果没有可以通过-b参数指定blastn的路径
+这么说的话可能只能在linux系统下使用
+默认最小长度是50,可以通过-m参数来修改
+
+
